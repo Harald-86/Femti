@@ -1,4 +1,6 @@
-# 50 projects in 50 days
+
+
+# 50 projects in 50 days (or more it seems)
 
 ![image](https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
